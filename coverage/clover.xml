@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1731712916458" clover="3.2.0">
+  <project timestamp="1731712916459" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11" elements="33" coveredelements="33" complexity="0" loc="22" ncloc="22" packages="2" files="2" classes="2"/>
+    <package name="config">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="database.ts" path="D:\Estudo\Linguagem de Programação\Linguagem de programação\Typescript\Iniciando\express\express5\src\config\database.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="model">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="User.ts" path="D:\Estudo\Linguagem de Programação\Linguagem de programação\Typescript\Iniciando\express\express5\src\model\User.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
